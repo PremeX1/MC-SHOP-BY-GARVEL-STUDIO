@@ -10,3 +10,6 @@ Required:
 2. Execute Sql in database
 3. Config website
 ```
+
+Donate:
+  PayPal: teamgamemine@gmail.com
