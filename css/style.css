@@ -1,0 +1,98 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Kanit", sans-serif;
+}
+
+.main_header {
+  margin-top: 17vh;
+}
+
+.main {
+  margin-top: 9px;
+}
+
+.space {
+  margin-top: 1vh;
+}
+
+.round {
+  border-radius: 7px;
+}
+
+.badge-text {
+  padding-top: 3px !important;
+  font-size: 17px;
+  padding-bottom: 5px !important;
+}
+
+.user_hightlight {
+  padding: 1px 8px 1px 8px !important;
+  color: #fff !important;
+}
+
+#txt1 {
+  font-size: 107px;
+}
+#txt2 {
+  font-size: 36px;
+  line-height: 24px;
+}
+#txt3 {
+  font-size: 21px;
+  line-height: 24px;
+}
+.material-icons {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.icon-fixed-size {
+  font-size: 20px;
+}
+
+.login-header {
+  padding: 1px 7px 7px 10px !important;
+}
+
+.scroller {
+  width: 300px;
+  height: 100px;
+  overflow-y: scroll;
+  scrollbar-color: rebeccapurple green;
+  scrollbar-width: thin;
+}
+
+.no-shadows {
+  box-shadow: none !important;
+}
+
+
+.shop-warpper {
+  padding-top: 10px !important;
+}
+
+.img-item {
+  width: 100px
+}
+
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
